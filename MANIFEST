@@ -1,0 +1,6 @@
+MANIFEST
+Makefile.PL
+isa.pm
+isa.xs
+t/can.t
+t/isa.t
